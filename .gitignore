@@ -13,3 +13,6 @@ env/
 *.log
 
 .DS_Store
+# local run artefacts
+notebook/installed.flag
+notebook/.gradio/
